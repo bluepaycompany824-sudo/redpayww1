@@ -14,11 +14,11 @@ const Support = () => {
   };
 
   const handleWhatsAppSupport = () => {
-    window.open("https://wa.me/2347060472735", "_blank");
+    window.open("https://wa.me/234911 480 6663", "_blank");
   };
 
   const handleEmailSupport = () => {
-    window.location.href = "mailto: feranmisegunsegun@gmail.com";
+    window.location.href = "mailto: worsleylijay29@gmail.com";
   };
 
   const handleLiveChat = () => {
