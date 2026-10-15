@@ -20,7 +20,7 @@ const PaymentInstructions = () => {
 
   const amount = "8,250";
   const accountNumber = "5202560388";
-  const bankName = "Funmilayo Orowole Oladetan";
+  const bankName = "Orowole Oladetan";
   const accountName = "Moniepoint MFB";
   const referenceId = `REF${Date.now()}`;
 
